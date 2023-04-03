@@ -37,7 +37,6 @@ List<Map<String, String>> parse(String json) {
         }
 
         return dados;
-
 }
 
 }
